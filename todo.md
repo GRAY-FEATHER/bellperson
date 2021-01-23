@@ -193,4 +193,4 @@ info!("ZQ: inputs end: {:?}", now.elapsed());
 开发人员名单：
 
 - （微信昵称，自助添加认领）
-- 、
+- 、[FOO-C2]善饮,
